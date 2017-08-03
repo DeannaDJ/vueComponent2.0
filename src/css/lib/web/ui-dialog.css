@@ -92,7 +92,7 @@
 .art-ui-dialog-start{
     position: absolute;
     display: inline-block;
-    background-color: #58bc62;
+    background-color: #23527c;
     width: 5px;
     height: 20px;
     top: 18px;
@@ -211,7 +211,7 @@
 
 .art-ui-dialog-footer button.art-ui-dialog-autofocus {
   color: #ffffff;
-  background-color: #5cb85c;
+  background-color: #23527c;
   border-color: #4cae4c;
 }
 
@@ -219,7 +219,7 @@
 .art-ui-dialog-footer button.art-ui-dialog-autofocus:focus,
 .art-ui-dialog-footer button.art-ui-dialog-autofocus:active {
   color: #ffffff;
-  background-color: #5cb85c;
+  background-color: #23527c;
   border-color: #4cae4c;
 }
 

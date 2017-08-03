@@ -1,6 +1,6 @@
 <style lang="sass">
 
-$colorPrimary: #53ac73;
+$colorPrimary: #428bca;
 $colorDanger: #ff0000;
 .v-sidebar {
     position: fixed;

@@ -14,7 +14,7 @@
         background: #fff;
         z-index: 10;
         .select-toggle {
-            border: 1px solid #64be6c;
+            border: 1px solid #428bca;
             border-bottom: 0;
             border-radius: 2px 2px 0 0;
         }
@@ -30,7 +30,7 @@
             opacity: 1;
             display: block;
             visibility: visible;
-            border: 1px solid #64be6c;
+            border: 1px solid #428bca;
         }
     }
     .tip {

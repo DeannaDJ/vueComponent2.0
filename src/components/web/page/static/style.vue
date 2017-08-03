@@ -28,14 +28,14 @@
     .next,
     .first,
     .last {
-        color: #53ac73;
+        color: #428bca;
         &:hover {
-            background: #53ac73;
+            background: #428bca;
             color: #fff;
         }
     }
     .current {
-        background: #53ac73;
+        background: #428bca;
         color: #fff;
         cursor: default;
     }

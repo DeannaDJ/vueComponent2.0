@@ -104,7 +104,7 @@
                         border-radius: 20px;
                         -webkit-border-radius: 20px;
                         -moz-border-radius: 20px;
-                        border: 3px #58bc62 solid;
+                        border: 3px #23527c solid;
                         text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
                     }
 
@@ -114,8 +114,8 @@
                     }
                     &.active {
                         color: #ffffff;
-                        background-color: #58bc62;
-                        border-color: #58bc62;
+                        background-color: #23527c;
+                        border-color: #23527c;
                     }
                 }
                 &.old,
@@ -124,8 +124,8 @@
                 }
                 &.active {
                     color: #ffffff;
-                    background-color: #58bc62;
-                    border-color: #58bc62;
+                    background-color: #23527c;
+                    border-color: #23527c;
                 }
                 span {
                     display: block;
@@ -138,8 +138,8 @@
                     border-radius: 25px;
                     &.active {
                         color: #ffffff;
-                        background-color: #58bc62;
-                        border-color: #58bc62;
+                        background-color: #23527c;
+                        border-color: #23527c;
                     }
                     &.old,
                     &.new {
@@ -151,7 +151,7 @@
                 font-weight: bold;
                 font-size: 14px;
                 &.week6,&.week7{
-                    color: #58bc62;
+                    color: #23527c;
                 }
             }
         }
